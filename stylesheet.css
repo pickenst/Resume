@@ -1,0 +1,15 @@
+html{
+  background-color: rgba(3, 35, 0, 0.696);
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  margin-bottom: -7px;
+}
+
+.head-container{
+  text-align: center;
+}
